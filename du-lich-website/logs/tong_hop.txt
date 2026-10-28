@@ -1,0 +1,5 @@
+=== TONG HOP LOG ===
+2026-08-28 08:33:34 [WARNING] Thoi gian tai trang cham
+2026-08-28 08:45:34 [WARNING] Thoi gian tai trang cham
+2026-08-28 09:15:34 [WARNING] Thoi gian tai trang cham
+6
